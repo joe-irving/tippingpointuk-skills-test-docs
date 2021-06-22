@@ -1,4 +1,4 @@
-title: Skills Test Docs
+title: Skills Test
 email: joe@irving.me.uk
-base_url: tippingpointuk-skills-test-docs
-theme: minima
+baseurl: /tippingpointuk-skills-test-docs
+theme: jekyll-theme-cayman
